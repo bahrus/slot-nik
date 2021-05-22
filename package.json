@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "xt-f": "0.0.1",
+    "xt-f": "0.0.2",
     "xtal-element": "0.0.400"
   },
   "repository": {

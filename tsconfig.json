@@ -1,0 +1,19 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module":"esnext",
+		"sourceMap": false,
+		"experimentalDecorators": false,
+		"newLine": "LF",
+		"strict": true,
+		"watch": true
+	},
+	"files": [
+		"xt-f.ts"
+	],
+	"exclude":[
+		"build",
+		"bower_components",
+		"node_modules"
+	]
+}

@@ -9,7 +9,7 @@
 		"watch": true
 	},
 	"files": [
-		"xt-f.ts"
+		"slot-nik.ts"
 	],
 	"exclude":[
 		"build",
